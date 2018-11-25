@@ -1,0 +1,40 @@
+password: rinkebytest
+
+public: 0x710fd0674A1f4c9EbBE064dB487c061942Fb2e33
+
+ritual abuse bus sauce digital lyrics because tuition brush muffin hamster february
+
+contract address:
+
+https://rinkeby.etherscan.io/tx/0xcce07c8ca96d127f28e137bb58c832c31d55d416b4119c8c02d7dd0747aa6992
+
+ABI: [
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "x",
+				"type": "string"
+			}
+		],
+		"name": "sendHash",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "getHash",
+		"outputs": [
+			{
+				"name": "",
+				"type": "string"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
